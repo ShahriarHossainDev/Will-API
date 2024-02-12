@@ -1,0 +1,6 @@
+framework module Pods_Will_API {
+  umbrella header "Pods-Will API-umbrella.h"
+
+  export *
+  module * { export * }
+}
